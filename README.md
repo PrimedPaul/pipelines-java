@@ -1,3 +1,4 @@
+[![Build Status](https://primedpaul.visualstudio.com/pipelines-java/_apis/build/status/PrimedPaul.pipelines-java?branchName=master)](https://primedpaul.visualstudio.com/pipelines-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
